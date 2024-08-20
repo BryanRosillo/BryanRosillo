@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Nice to met you
-My name is **Bryan Rosillo**. I am passionate about *software development and engineering*, I am currently studying that area at the **National Polytechnic School in Ecuador**. I must admit that my main interest is the *backend*, mainly with *Java*. If there is anything I can help you with, it will be a pleasure. You can contact me through:
+My name is **Bryan Rosillo**. I am passionate about *software engineering*, I am currently studying that area at the **National Polytechnic School in Ecuador**. I must admit that my main interest is the *backend*, mainly with *Java*. If there is anything I can help you with, it will be a pleasure. You can contact me through:
 * **Email**: bryanrosillo100@hotmail.com
 * **LinkedIn**: https://www.linkedin.com/in/bryan-stiven-rosillo-guayanay-a249b9294/
 
